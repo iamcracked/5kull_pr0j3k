@@ -8,7 +8,7 @@
 #///////////////////////////////////////////////////////////////////////////////
 #///////////////////////////////////////////////////////////////////////////////
 intro(){
-echo "Selamat datang kak, Siapa nick kaka?" #tulisan keluar
+echo "Hai,Nama kamu siapa sayang?" #tulisan keluar
 read nick #membaca yang ditulis
 echo "            _,.-------.,_ "
 sleep 0.03
@@ -58,7 +58,7 @@ echo "              ^~~~^~~~^  "
 sleep 0.03
 echo "  ================================"
 sleep 2
-echo "  ==       5kull Project        =="
+echo "  ==       5kull Pr0j3k        =="
 sleep 0.7
 echo "  ================================"
 echo " Skull Project adalah Tools phising "
@@ -129,6 +129,6 @@ else
                     echo "Kesalahan"
             fi            
     else
-                echo "Terimakasih sudah menggunakan 5kull Project"
+                echo "Terimakasih sudah menggunakan 5kull Pr0j3k"
     fi
 fi
